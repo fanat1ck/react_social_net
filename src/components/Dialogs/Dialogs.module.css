@@ -1,0 +1,17 @@
+.dialogs {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+.dialogs {
+    padding: 10px;
+}
+
+.item {
+    text-decoration: none;
+
+}
+
+a .active {
+    color: yellow;
+}

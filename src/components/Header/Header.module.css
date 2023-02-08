@@ -1,0 +1,25 @@
+
+.header {
+    grid-area: h;
+    background-color: blueviolet;
+}
+
+.header img {
+
+    width: 50px;
+    height: 30px;
+    padding-left: 20px;
+    padding-top: 2px;
+}
+
+.login {
+    float: right;
+    padding: 10px;
+}
+
+.login a {
+    color: white;
+    text-decoration: none;
+
+}
+  
